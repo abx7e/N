@@ -1,5 +1,6 @@
 Telethon
 selenium
+BlThon
 setuptools
 wheel
 aiohttp
